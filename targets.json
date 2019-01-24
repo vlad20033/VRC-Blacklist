@@ -278,7 +278,7 @@
   {
     "UserId": "usr_cbb19759-13f4-4ec1-94b1-07ae6afb2ccd",
     "TimeStamp": "2019-01-18 08:23:46",
-    "UserName": "Wrtime",
+    "UserName": "Wartime",
     "Comment": "KOS Plugin Abuse, Public Lobby Crashing"
   },
   {
@@ -310,6 +310,24 @@
     "TimeStamp": "2019-01-22 04:06:20",
     "UserName": "Xanex",
     "Comment": "KOS/gen21, public logout abuse"
+  },
+  {
+    "UserId": "usr_ebd4091d-910a-4344-a783-d5700b8604d2",
+    "TimeStamp": "2019-01-22 04:06:20",
+    "UserName": "Rawri",
+    "Comment": "Abusive Client use, Logging Off blockers"
+  },
+  {
+    "UserID": "usr_725ee993-f3a5-43ac-89a3-d240d23b13af",
+    "TimeStamp": "2019-01-22 04:06:20",
+    "UserName": "FroggyLegs",
+    "Comment": "Harrassing Users, Threats with Clients, Log Off Worlds"
+  },
+  {
+    "UserID": "usr_44e742cf-d5f7-49fc-96e2-ac433f2b7972",
+    "TimeStamp": "2019-01-22 04:06:20",
+    "UserName": "belet",
+    "Comment": "Log Off Worlds, Alt Ban Evading"
   },
   {
     "UserId": "usr_b8596512-5108-4ade-a1bf-b80b94bfb4f9",
